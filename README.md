@@ -5,12 +5,19 @@ Source code for ICASSP2022 paper: EmotionFlow: Capture the Dialogue Level Emotio
 ### Required Packages:
 ------
 transformers=4.14.1
+
 torch=1.8
+
 vocab=0.0.5
+
 numpy
+
 tqdm
+
 sklearn
+
 pickle
+
 pandas
 
 
