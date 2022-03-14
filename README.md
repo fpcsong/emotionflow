@@ -45,4 +45,4 @@ python train.py -te -ft -bsz 1 -dpt 0.3 -bert_path roberta-[base, large]
 | EmotionFlow-roberta-base  | 65.05       | [roberta-base-meld.pkl](https://drive.google.com/file/d/13tTwxFbfO2ZaNJfic3F2AGATzU6ilA5C/view?usp=sharing) |
 | EmotionFlow-roberta-large | 66.50       | [roberta-large-meld.pkl](https://drive.google.com/file/d/1zdS4SEvAzR5aVJ852zyaW4IzStQG6fvU/view?usp=sharing) |
 
-Checkpoint are produced on a single V100 GPU.
+Checkpoints are produced on a single V100 GPU.
